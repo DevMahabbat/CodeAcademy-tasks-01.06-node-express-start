@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Mahabbat",
+    "body": "Mahabbat's first post",
+    "likeCount": "10"
+  },
+  {
+    "id": "2",
+    "title": "Mahabbat2",
+    "body": "Mahabbat's second post",
+    "likeCount": "20"
+  }
+]

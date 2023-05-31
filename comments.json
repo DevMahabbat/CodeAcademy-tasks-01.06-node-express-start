@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+         "postId" : "1", 
+         "content" : "Comment of first post",
+          "username" : "username1" 
+    },
+     {
+       "id": "2",
+       "postId": "2",
+       "content": "Comment of second post",
+       "username": "username2"
+     }
+]
